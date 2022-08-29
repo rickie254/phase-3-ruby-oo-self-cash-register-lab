@@ -1,4 +1,3 @@
-
 class CashRegister
     attr_accessor :discount  , :price , :quantity, :items, :total, :prev_payment
     
